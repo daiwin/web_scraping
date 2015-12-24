@@ -3,6 +3,7 @@ import nltk
 import string
 import pymorphy2
 import xlwt
+import re
 from collections import Counter
 
 
@@ -30,6 +31,8 @@ for y in year:
 
             except:
                 a=1
+
+text=re.sub(u'[^А-Яа-яA-Za-z\s]*', u'', text)
 
 tokens = nltk.word_tokenize(text)
 tokens = [i for i in tokens if ( i not in string.punctuation )]
