@@ -3,7 +3,1293 @@
   <component name="ChangeListManager">
     <list default="true" id="8a113b16-8943-4ee5-b79f-d16462ba3405" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/cleaned/final.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_02_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_03_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_03_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_03_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_03_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_03_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_03_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_04_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_05_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_05_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_05_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_05_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_05_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_05_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_05_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_06_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_06_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_06_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_07_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_08_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_08_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_08_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_08_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_08_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_09_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_09_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_11_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_12_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2011_12_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_02_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_03_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_03_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_04_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_04_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_04_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_04_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_04_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_04_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_05_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_05_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_05_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_05_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_06_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_06_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_06_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_06_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_06_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_06_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_06_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_06_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_06_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_07_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_07_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_07_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_07_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_07_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_07_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_08_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_09_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_10_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_10_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_10_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_10_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_10_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_10_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_10_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_10_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_10_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_10_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_10_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_10_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_11_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2012_12_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_02_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_03_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_04_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_04_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_04_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_04_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_04_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_05_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_06_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_07_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_08_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_08_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_09_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_10_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_11_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2013_12_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_01_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_02_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_03_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_04_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_05_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_06_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_07_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_08_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_09_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_10_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_11_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2014_12_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_01_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_02_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_03_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_04_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_05_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_06_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_07_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_08_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_09_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_10_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_23.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_24.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_29.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_11_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_02.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_03.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_05.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_08.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_11.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_14.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_18.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_22.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/2015_12_23.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cleaning.py" afterPath="$PROJECT_DIR$/cleaning.py" />
     </list>
     <ignored path="textmining.iws" />
@@ -25,24 +1311,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cleaning.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="cleaning.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cleaning.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state vertical-scroll-proportion="1.0360721">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
-                <element signature="e#24#35#0" expanded="true" />
+                <element signature="e#24#46#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="final.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cleaned/final.txt">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-660.5736">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+              <folding>
+                <element signature="e#24#63#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,16 +1353,16 @@
         <option value="$PROJECT_DIR$/data/2011_02_02.txt" />
         <option value="$PROJECT_DIR$/data/1_1_1.txt" />
         <option value="$PROJECT_DIR$/data/2011_02_01.txt" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/cleaning.py" />
+        <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1855" />
-    <option name="height" value="938" />
+    <option name="height" value="910" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -129,7 +1417,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cleaned" />
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,7 +1615,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="938" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="910" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -342,12 +1630,31 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22371967" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-    </layout>
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33014354" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -361,7 +1668,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -370,7 +1679,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#24#35#0" expanded="true" />
+            <element signature="e#24#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -379,6 +1688,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -386,6 +1698,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -393,6 +1708,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -400,6 +1718,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -410,28 +1731,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/2015_12_26.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79622644">
-          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cleaning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state vertical-scroll-proportion="1.0360721">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
-            <element signature="e#24#35#0" expanded="true" />
+            <element signature="e#24#46#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleaned/final.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-660.5736">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
