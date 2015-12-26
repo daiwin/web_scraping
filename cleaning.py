@@ -22,7 +22,8 @@ def countArtOfDay(y, m, d):
     u'сей', u'тот', u'также', u'быть', u'мочь', u'такой', u'кроме', u'-'])
 
     text = f.read().decode('utf8')
-    text = re.sub(u'[^а-яА-Я\-\s]','',text) #delete all not bukva
+    text = re.sub(u'[^а-яА-Я\-\s]','',text)
+
     articleText = articleText + " " + text.lower()
 
     tokens = nltk.word_tokenize(articleText)
@@ -39,14 +40,20 @@ def countArtOfDay(y, m, d):
 
 
 
-DIR = 'data'
+DIR = 'data' #path
 files = [f for f in listdir(DIR) if isfile(join(DIR, f))]
 
 for l in files:
             l = l[0:-4]
             dt = l.split("_")
             try:
-                countArtOfDay(dt[0], dt[1], dt[2])
+                articlesCount = countArtOfDay(dt[0], dt[1], dt[2])
+                file = open('counts/'+dt[0]+'_'+dt[1]+'_'+dt[2]+'_counted.txt', 'w')
+
+                for str in articlesCount:
+                    file.write(str+":"+articlesCount[str])
+
+                file.close()
             except:
                 a = 1
 
@@ -59,9 +66,9 @@ for l in files:
 
 # c = Counter(final)
 
-# file = open('cleaned/final.txt', 'w')
+#
 
 # for item in c:
-    # file.write(  (item +" : "+ str(c[item])+"\n").encode('utf8'))
+    #
 
 # file.close()
