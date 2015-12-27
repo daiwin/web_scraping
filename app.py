@@ -55,8 +55,8 @@ def getText(urlList):
 
 
 
-dt = datetime.date(2015, 12, 27)
-timedelta1 = datetime.timedelta(days=1)
+dt = datetime.date(2015, 10, 10)
+timedelta1 = datetime.timedelta(days=23)
 
 
 
