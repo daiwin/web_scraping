@@ -9,7 +9,7 @@ from stop_words import get_stop_words
 from collections import defaultdict
 import codecs
 
-Count = defaultdict(int)
+
 
 def countArtOfDay(y, m, d, Count):
 	try:
@@ -55,17 +55,18 @@ DIR = 'data' #path
 files = [f for f in listdir(DIR) if isfile(join(DIR, f))]
 
 for l in files:
-    l = l[0:-4]
-    dt = l.split("_")
-    try:
+	Count = defaultdict(int)
+	l = l[0:-4]
+	dt = l.split("_")
+	try:
         #print(dt)
-        articlesCount = countArtOfDay(dt[0], dt[1], dt[2], Count)
-        newlist = sorted(Count.items(), key=operator.itemgetter(1), reverse=True)
-        file = open('counts/'+dt[0]+'_'+dt[1]+'_'+dt[2]+'.txt', 'wb')
-        for bn in newlist:
-            file.write((bn[0]+" "+str(bn[1])+"\r\n").encode('utf8'))
-        file.close()
-    except:
-        a = 1
+		articlesCount = countArtOfDay(dt[0], dt[1], dt[2], Count)
+		newlist = sorted(Count.items(), key=operator.itemgetter(1), reverse=True)
+		file = open('counts/'+dt[0]+'_'+dt[1]+'_'+dt[2]+'.txt', 'wb')
+		for bn in newlist:
+			file.write((bn[0]+" "+str(bn[1])+"\r\n").encode('utf8'))
+		file.close()
+	except:
+		print('error')
 
 
