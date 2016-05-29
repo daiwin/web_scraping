@@ -11,16 +11,14 @@ import codecs
 
 
 
-def countArtOfDay(y, m, d, Count):
+def countArtOfDay(y, m, d, count, theme):
 	try:
-		f = codecs.open("data/" + y + "_" + m + "_"+d+".txt", 'r',encoding='utf8')
+		f = codecs.open("data/"+theme+"/" + y + "_" + m + "_"+d+".txt", 'r',encoding='utf8')
 		try:
 			f.read()
-			#print('utf8')
-			f = codecs.open("data/" + y + "_" + m + "_"+d+".txt", 'r',encoding='utf8')
+			f = codecs.open("data/"+theme+"/" + y + "_" + m + "_"+d+".txt", 'r',encoding='utf8')
 		except Exception:
-			#print('ascii')	
-			f = codecs.open("data/" + y + "_" + m + "_"+d+".txt", 'r')
+			f = codecs.open("data/"+theme+"/" + y + "_" + m + "_"+d+".txt", 'r')
 	except:
 		raise
 
@@ -32,9 +30,9 @@ def countArtOfDay(y, m, d, Count):
 	u'а', u'во', u'от', u'со', u'для', u'о', u'же', u'ну', u'вы', u'бы', u'что', u'кто', u'он', u'она', u'который', u'этот',
 	u'сей', u'тот', u'также', u'быть', u'мочь', u'такой', u'кроме', u'-', u'который',u'быть', u'мочь',
 	u'стать', u'наш', u'свой',u'самый', u'другой',u'очень',u'дать', u'однако', u'весь', u'который', u'такой', u'самый', u'из-за', u'какой-то', u'который'])
-	print(y,m,d)
+	#print(y,m,d)
 	text = f.read()
-	#print(text)
+
 	text = re.sub(u'[^а-яА-Я\-\s]','',text)
 
 	articleText = articleText + " " + text.lower()
@@ -47,22 +45,25 @@ def countArtOfDay(y, m, d, Count):
 		final.append(morph.parse(a)[0].normal_form)
 
 	for word in final:
-		Count[word] += 1
+		count[word] += 1
 	f.close()
 
 
-DIR = 'data' #path
-files = [f for f in listdir(DIR) if isfile(join(DIR, f))]
 
-for l in files:
-	Count = defaultdict(int)
+
+theme='politics'
+DIR = 'data/'+theme
+
+filesList = [f for f in listdir(DIR) if isfile(join(DIR, f))]
+
+for l in filesList:
+	count = defaultdict(int)
 	l = l[0:-4]
 	dt = l.split("_")
 	try:
-        #print(dt)
-		articlesCount = countArtOfDay(dt[0], dt[1], dt[2], Count)
-		newlist = sorted(Count.items(), key=operator.itemgetter(1), reverse=True)
-		file = open('counts/'+dt[0]+'_'+dt[1]+'_'+dt[2]+'.txt', 'wb')
+		articlesCount = countArtOfDay(dt[0], dt[1], dt[2], count, theme)
+		newlist = sorted(count.items(), key=operator.itemgetter(1), reverse=True)
+		file = open('counts/'+theme+"/"+dt[0]+'_'+dt[1]+'_'+dt[2]+'.txt', 'wb')
 		for bn in newlist:
 			file.write((bn[0]+" "+str(bn[1])+"\r\n").encode('utf8'))
 		file.close()

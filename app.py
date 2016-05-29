@@ -5,9 +5,9 @@ import urllib3
 import datetime # Новый модуль для работы с датой и временем
 
 
-def makeUrl(year, month, day):
+def makeUrl(year, month, day, theme):
     date = year+'/'+month+'/'+day+'/'
-    link = 'http://www.mk.ru/politics/'+ date
+    link = 'http://www.mk.ru/'+theme+'/'+ date
     return link
 
 
@@ -54,17 +54,17 @@ dt = datetime.date(2014, 6, 23)
 timedelta = datetime.timedelta(days=1)
 
 
-
+theme='politics'
 
 for x in range(3600):
-    url = makeUrl(str(dt.year), str(dt.month).zfill(2), str(dt.day).zfill(2))
+    url = makeUrl(str(dt.year), str(dt.month).zfill(2), str(dt.day).zfill(2), theme)
     urlList = getArticleUrl(url)
     if urlList is None:
         dt = dt + timedelta
         continue
     else:
         text = getText(urlList)
-        f = open('data/'+str(dt.year)+'_'+str(dt.month).zfill(2)+'_'+str(dt.day).zfill(2)+'.txt', 'wb')
+        f = open('data/'+theme+'/'+str(dt.year)+'_'+str(dt.month).zfill(2)+'_'+str(dt.day).zfill(2)+'.txt', 'wb')
         f.write(text.encode(sys.stdout.encoding, errors='replace'))
         f.close()
         dt = dt + timedelta
