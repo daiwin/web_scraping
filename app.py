@@ -48,9 +48,12 @@ def getText(urlList):
 	return cleanArts
 
 
+startYear=2014
+startMonth=6
+startDay=23
 
 
-dt = datetime.date(2014, 6, 23)
+dt = datetime.date(startYear, startMonth, startDay)
 timedelta = datetime.timedelta(days=1)
 
 
