@@ -8,7 +8,7 @@ import operator
 from stop_words import get_stop_words
 from collections import defaultdict
 import codecs
-
+import dataset
 
 
 def countArtOfDay(y, m, d, count, theme):
@@ -56,18 +56,23 @@ DIR = 'data/'+theme
 
 filesList = [f for f in listdir(DIR) if isfile(join(DIR, f))]
 
+#print(filesList)            
+             
+             
 for l in filesList:
-	count = defaultdict(int)
-	l = l[0:-4]
-	dt = l.split("_")
-	try:
-		articlesCount = countArtOfDay(dt[0], dt[1], dt[2], count, theme)
-		newlist = sorted(count.items(), key=operator.itemgetter(1), reverse=True)
-		file = open('counts/'+theme+"/"+dt[0]+'_'+dt[1]+'_'+dt[2]+'.txt', 'wb')
-		for bn in newlist:
-			file.write((bn[0]+" "+str(bn[1])+"\r\n").encode('utf8'))
-		file.close()
-	except:
-		print('error')
+    count = defaultdict(int)
+    l = l[0:-4]
+    dt = l.split("_")
+    try:
+        articlesCount = countArtOfDay(dt[0], dt[1], dt[2], count, theme)
+        newlist = sorted(count.items(), key=operator.itemgetter(1), reverse=True)
+        #file = open('counts/'+theme+"/"+dt[0]+'_'+dt[1]+'_'+dt[2]+'.txt', 'wb') 
+        db = dataset.connect('postgresql://postgres:root@localhost:5432/postgres')
+        table = db['facts']
+        
+        for bn in newlist:
+             table.insert(    dict(dt=dt[0]+'-'+dt[1]+'-'+dt[2], theme=theme, word=bn[0], count=bn[1])    )          
+    except:
+        print('error')
 
 

@@ -1,0 +1,19 @@
+<input #termin/>
+<button (click)="ButtClick(termin.value)">Поиск</button>
+<p>{{term}}</p>
+
+  <div class="col-md-6">
+    <div style="display: block;">
+    <canvas baseChart width="200" height="100"
+                [datasets]="lineChartData"
+                [labels]="lineChartLabels"
+                [options]="lineChartOptions"
+                [colors]="lineChartColors"
+                [legend]="lineChartLegend"
+                [chartType]="lineChartType"
+                (chartHover)="chartHovered($event)"
+                (chartClick)="chartClicked($event)"></canvas>
+    </div>
+  </div>
+
+
